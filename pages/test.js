@@ -310,7 +310,7 @@ const Test = () => {
                           <div>
                             <VideoPlayeside
                               poster="/img/poster3.png"
-                              src="/video/vide-1.mp4"
+                              src="https://meleewholesale.com/assets/video/vide-1.mp4"
                             />
                           </div>
                         </div>
@@ -327,7 +327,7 @@ const Test = () => {
                           <div>
                             <VideoPlayeside
                               poster="/img/poster3.png"
-                              src="/video/vide-1.mp4"
+                              src="https://meleewholesale.com/assets/video/vide-2.mp4"
                             />
                           </div>
                         </div>
@@ -344,7 +344,7 @@ const Test = () => {
                           <div>
                             <VideoPlayeside
                               poster="/img/poster3.png"
-                              src="/video/vide-1.mp4"
+                              src="https://meleewholesale.com/assets/video/vide-3.mp4"
                             />
                           </div>
                         </div>
@@ -361,7 +361,7 @@ const Test = () => {
                           <div>
                             <VideoPlayeside
                               poster="/img/poster3.png"
-                              src="/video/vide-1.mp4"
+                              src="https://meleewholesale.com/assets/video/vide-4.mp4"
                             />
                           </div>
                         </div>
@@ -378,7 +378,7 @@ const Test = () => {
                           <div>
                             <VideoPlayeside
                               poster="/img/poster3.png"
-                              src="/video/test.mp4"
+                              src="https://meleewholesale.com/assets/video/vide-5.mp4"
                             />
                           </div>
                         </div>
