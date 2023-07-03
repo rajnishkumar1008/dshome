@@ -68,7 +68,7 @@ const VideoPlayer = ({ src, poster }) => {
             <div className="left">
               <h3>
                 We Relentlessly Seek
-                <span>Change & Growth for Reshaping</span>
+                <span>Change & Growth</span>
               </h3>
             </div>
             <div className="icon">
