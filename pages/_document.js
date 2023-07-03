@@ -19,25 +19,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             />
             <meta name="theme-color" content="#ee3442" />
-            <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-M9Z4742"></script>
-            <meta name="google-site-verification" content="xFgE4PTaJv9p6KEkLb3yvhTbsewZhPo7xg8VbUXi_ME" />
-            <Script async
-            src="https://www.googletagmanager.com/gtag/js?id=UA-243571673-1"
-            strategy="beforeInteractive"
-            />
-            <Script async id="google-analytics" strategy="beforeInteractive">
-                {`
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', 'UA-243571673-1');
-                `}
-            </Script>
-            <Script id="hotjar" strategy="beforeInteractive">
-                {`
-               (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:3340940,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-                `}
-            </Script>
+            <meta name="robots" content="noindex,nofollow" />
             
         </Head>
         <body>
