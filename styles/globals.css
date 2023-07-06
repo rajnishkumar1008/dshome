@@ -10066,7 +10066,7 @@ height:50px;
   color: #30475e;
 }
 .home-cont-bf{
-  background: #30475e;
+  background: #d73d3d;
     margin-top: -360px;
     padding-top: 360px;
 }
@@ -10101,10 +10101,13 @@ height:50px;
 }
 
 .bott .right a{
-  background: #d73d3d;
+  background: #2e3c4a;
     color: #fff;
     padding: 0.8rem 2rem;
     border-radius: 5px;
+}
+.bott .right a:hover{
+  background:#bb2b36
 }
 .home-cont-bf h3{
   font-size: 32px;
