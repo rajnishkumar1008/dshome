@@ -274,10 +274,14 @@ const Test = () => {
     </div> */}
 
         <section>
+<<<<<<< HEAD
           <VideoPlayer
             poster="/img/poster-1.png"
             src="https://meleewholesale.com/assets/video/SLide4-1.mp4"
           />
+=======
+          <VideoPlayer poster="/img/poster-1.png" src="https://meleewholesale.com/assets/video/SLide4-1.mp4" />
+>>>>>>> a67ca0e3f67ce4afd374c7beb9becf7e40c488fd
         </section>
         <section>
           <div className="container">
